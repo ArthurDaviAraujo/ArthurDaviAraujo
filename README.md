@@ -1,6 +1,9 @@
-<h1 data-importer="text" align="center">Hey there 👋, what's up? My name is Arthur Davi and I'm a Junior backend developer.</h1>
+# 👩🏻‍💻 Arthur Davi
 
-###
+**`Desenvolvedor FullStack`**
+
+Me chamo Arthur Davi, sou de Belo Horizonte e sou apaixonado por tecnologia e desenvolvimento de software. Concluí o ensino médio e atualmente curso faculdade na área de tecnologia, além de ter formação técnica em Desenvolvimento de Software. Ao longo dos meus estudos, venho desenvolvendo projetos utilizando tecnologias como PHP, Java, Python, JavaScript, HTML, CSS e MySQL. Tenho grande interesse em desenvolvimento backend, automações, APIs e banco de dados, e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos pessoais e acadêmicos.
+
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/ArthurDaviAraujo/ArthurDaviAraujo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -30,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
