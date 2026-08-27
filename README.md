@@ -1,4 +1,4 @@
-<h3 data-importer="text" align="left">Hey there 👋, what's up? My name is Arthur Davi and I'm a Junior backend developer, from Belo Horizonte.</h3>
+<h2 data-importer="text" align="center">Hey there 👋, what's up? My name is Arthur Davi and I'm a Junior backend developer, from Belo Horizonte.</h2>
 
 ###
 
