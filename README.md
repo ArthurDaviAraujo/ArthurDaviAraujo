@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Davi, sou de Belo Horizonte e sou apaixonado por tecnologia e desenvolvimento de software. Concluí o ensino médio e atualmente curso faculdade na área de tecnologia, além de ter formação técnica em Desenvolvimento de Software. Ao longo dos meus estudos, venho desenvolvendo projetos utilizando tecnologias como PHP, Java, Python, JavaScript, HTML, CSS e MySQL. Tenho grande interesse em desenvolvimento backend, automações, APIs e banco de dados, e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos pessoais e acadêmicos.
+My name is Arthur Davi, I'm from Belo Horizonte, and I'm passionate about technology and software development. I completed high school and am currently pursuing a degree in technology, in addition to having a technical qualification in Software Development. Throughout my studies, I have been developing projects using technologies such as PHP, Java, Python, JavaScript, HTML, CSS, and MySQL. I have a strong interest in backend development, automation, APIs, and databases, and I am always looking to learn new technologies and put my knowledge into practice through personal and academic projects.
 
 
 <div data-importer="stats" align="center">
