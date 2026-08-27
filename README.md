@@ -48,7 +48,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/ac/10/c5/ac10c59f7fb2535cd3e4a19c97fd5c76.gif"  />
+<img data-importer="image" align="right" height="150" src="./sonic_fundo_transparente_sem_borrao.gif" />
 
 ###
 
